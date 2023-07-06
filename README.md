@@ -3,3 +3,5 @@ A facial recognition-based attendance system is a solution that enables secure a
 
 ![WhatsApp Image 2023-07-06 at 19 32 20](https://github.com/duyguyesiloglu/Attandance-System-with-Face-Detection/assets/110973866/22613945-b068-4d02-acf6-05b78d095fc6)
 
+![d](https://github.com/duyguyesiloglu/Attandance-System-with-Face-Detection/assets/110973866/71afb42a-8363-46d0-a8a8-161eef4b2192) 
+ 
